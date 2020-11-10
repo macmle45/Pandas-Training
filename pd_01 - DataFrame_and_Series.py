@@ -10,7 +10,7 @@ exmpl_DF = pd.DataFrame(
     index= ['Price', 'Quantity']
     )
 
-#print(exmpl_DF)
+print(exmpl_DF)
 
 #Series
 
@@ -22,3 +22,4 @@ exmpl_S = pd.Series(
     )
 
 print(exmpl_S)
+
