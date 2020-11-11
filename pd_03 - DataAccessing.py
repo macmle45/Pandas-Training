@@ -2,7 +2,7 @@ import pandas as pd
 
 #Reading data files
 
-wines= pd.read_csv("C:/Users/milkm/Desktop/Pandas/sampleData/winemag-data-130k-v2.csv", index_col= 0)
+wines= pd.read_csv("SampleData/winemag-data-130k-v2.csv", index_col= 0)
 pd.set_option('max_rows', 20)
 
 
@@ -34,7 +34,7 @@ print(wines.loc[wines_by_country])
 #isin
 print(wines.loc[wines.country.isin(['Italy', 'France'])])
 
-#isnull
+#notnull
 print(wines.loc[wines.price.notnull()])
 
 #Pandas assigning data
