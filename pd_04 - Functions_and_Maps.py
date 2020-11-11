@@ -16,7 +16,6 @@ print(reviews.points.mean(), '\n')
 print(reviews.taster_name.unique(), '\n')
 print(reviews.taster_name.value_counts(), '\n')
 
-
 #Maps
 
 #map() function - for data Series
