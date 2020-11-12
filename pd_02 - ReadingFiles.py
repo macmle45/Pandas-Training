@@ -2,7 +2,7 @@ import pandas as pd
 
 #Reading data files
 
-lego= pd.read_csv("C:/Users/milkm/Desktop/archive/metadata.csv", index_col= 0)
+lego= pd.read_csv("SampleData/winemag-data-130k-v2.csv", index_col= 0)
 
 
 
