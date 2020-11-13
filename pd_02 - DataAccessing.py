@@ -6,6 +6,8 @@ wines= pd.read_csv("SampleData/winemag-data-130k-v2.csv", index_col= 0)
 pd.set_option('max_rows', 20)
 
 
+print(wines.shape)
+
 
 #Indexing in Pandas
 
@@ -40,6 +42,3 @@ print(wines.loc[wines.price.notnull()])
 #Pandas assigning data
 wines['critics']= 'macmle'
 print(wines['critics'])
-
-
-
