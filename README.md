@@ -4,7 +4,7 @@ Pandas training for data science based on [Kaggle micro-courses](https://www.kag
 
 Index | Lesson | Files
 ------------ | ------------ | -------------
-1 | Creating, Reading and Writing | [Training_01](/'01. Creating, Reading and Writing'/'pd_01 - DataFrame_and_Series.py')
+1 | Creating, Reading and Writing | [Training_01](https://github.com/macmle45/Pandas-Training/blob/master/01.%20Creating%2C%20Reading%20and%20Writing/pd_01%20-%20DataFrame_and_Series.py)
 2 | Indexing, Selecting & Assigning | [Training_02](/02. Indexing, Selecting & Assigning/pd_02 - DataAccessing.py)
 3 | Summary Functions and Maps | [Training_03](/03. Summary Functions and Maps/pd_03 - Functions_and_Maps.py) [Exercise_03_06](/)
 4 | Grouping and Sorting | [Training_04](/04. Grouping and Sorting/pd_04 - Grouping_and_Sorting.py) [Exercise_04_06](/)
